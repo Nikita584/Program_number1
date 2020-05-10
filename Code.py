@@ -14,7 +14,7 @@ while i == 0:
         print(a)
         print(b)
         i = 1
-suma: int = (a + b)
-print(f'Сумма введёнеых чисел равна: {suma}')
-dif: int = (a - b)
-print(f'Вычитание чисел дало результат:{dif}')
+prod: int = (a * b)
+print(f'Умножение введёнеых чисел равно: {prod}')
+div: int = (a / b)
+print(f'Деление чисел дало результат:{div}')
