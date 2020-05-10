@@ -15,3 +15,7 @@ while i == 0:
         print(b)
         i = 1
 
+prod: int = (a * b)
+print(f'Умножение введёнеых чисел равно: {prod}')
+div: int = (a / b)
+print(f'Деление чисел дало результат:{div}')
